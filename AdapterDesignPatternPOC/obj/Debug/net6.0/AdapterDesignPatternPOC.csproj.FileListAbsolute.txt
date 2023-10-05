@@ -1,0 +1,15 @@
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\bin\Debug\net6.0\AdapterDesignPatternPOC.exe
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\bin\Debug\net6.0\AdapterDesignPatternPOC.deps.json
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\bin\Debug\net6.0\AdapterDesignPatternPOC.runtimeconfig.json
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\bin\Debug\net6.0\AdapterDesignPatternPOC.dll
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\bin\Debug\net6.0\AdapterDesignPatternPOC.pdb
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\obj\Debug\net6.0\AdapterDesignPatternPOC.csproj.AssemblyReference.cache
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\obj\Debug\net6.0\AdapterDesignPatternPOC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\obj\Debug\net6.0\AdapterDesignPatternPOC.AssemblyInfoInputs.cache
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\obj\Debug\net6.0\AdapterDesignPatternPOC.AssemblyInfo.cs
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\obj\Debug\net6.0\AdapterDesignPatternPOC.csproj.CoreCompileInputs.cache
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\obj\Debug\net6.0\AdapterDesignPatternPOC.dll
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\obj\Debug\net6.0\refint\AdapterDesignPatternPOC.dll
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\obj\Debug\net6.0\AdapterDesignPatternPOC.pdb
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\obj\Debug\net6.0\AdapterDesignPatternPOC.genruntimeconfig.cache
+C:\Users\Adithya AV\source\repos\AdapterDesignPatternPOC\AdapterDesignPatternPOC\obj\Debug\net6.0\ref\AdapterDesignPatternPOC.dll
